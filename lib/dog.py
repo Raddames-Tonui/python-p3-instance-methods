@@ -2,7 +2,7 @@
 
 class Dog:
     # Class body goes here
-    def sit(self)
+    def sit(self):
         Print("The dog is sitting.")
 
     #Instance method definition
